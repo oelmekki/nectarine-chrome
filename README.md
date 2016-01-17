@@ -7,9 +7,9 @@ Chrome extension for [Nectarine](http://nectarine.rocks).
 
 ## Install
 
-Chrome webstore link to be announced.
+[Install from chrome webstore](https://chrome.google.com/webstore/detail/nectarine/pcdklgbmhjbfhpnfnnohjomdlnpnfhnb).
 
-To load it from sources:
+To install from sources:
 
 1. download those sources
 2. browse to [chrome://extensions](chrome://extensions)
