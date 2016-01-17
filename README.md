@@ -2,6 +2,11 @@
 
 Chrome extension for [Nectarine](http://nectarine.rocks).
 
+![Screenshot](screenshot.png)
+
+
+## Install
+
 Chrome webstore link to be announced.
 
 To load it from sources:
